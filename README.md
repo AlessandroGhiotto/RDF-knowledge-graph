@@ -32,61 +32,61 @@ Here we can have a quick look at the two starting CSV files.
 
 'album_list.csv':
 
-<div>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Number</th>
-      <th>Year</th>
-      <th>Album</th>
-      <th>Artist</th>
-      <th>Genre</th>
-      <th>Subgenre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>1967</td>
-      <td>Sgt. Pepper's Lonely Hearts Club Band</td>
-      <td>The Beatles</td>
-      <td>Rock</td>
-      <td>Rock &amp; Roll, Psychedelic Rock</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>1966</td>
-      <td>Pet Sounds</td>
-      <td>The Beach Boys</td>
-      <td>Rock</td>
-      <td>Pop Rock, Psychedelic Rock</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>1966</td>
-      <td>Revolver</td>
-      <td>The Beatles</td>
-      <td>Rock</td>
-      <td>Psychedelic Rock, Pop Rock</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>1965</td>
-      <td>Highway 61 Revisited</td>
-      <td>Bob Dylan</td>
-      <td>Rock</td>
-      <td>Folk Rock, Blues Rock</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>1965</td>
-      <td>Rubber Soul</td>
-      <td>The Beatles</td>
-      <td>Rock, Pop</td>
-      <td>Pop Rock</td>
-    </tr>
-  </tbody>
-</table>
+<div style="max-width: 600px; margin: auto;">
+  <table border="1" class="dataframe" style="font-size: 12px; width: 100%; text-align: center; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th style="padding: 4px;">Number</th>
+        <th style="padding: 4px;">Year</th>
+        <th style="padding: 4px;">Album</th>
+        <th style="padding: 4px;">Artist</th>
+        <th style="padding: 4px;">Genre</th>
+        <th style="padding: 4px;">Subgenre</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 4px;">1</td>
+        <td style="padding: 4px;">1967</td>
+        <td style="padding: 4px;">Sgt. Pepper's Lonely Hearts Club Band</td>
+        <td style="padding: 4px;">The Beatles</td>
+        <td style="padding: 4px;">Rock</td>
+        <td style="padding: 4px;">Rock &amp; Roll, Psychedelic Rock</td>
+      </tr>
+      <tr>
+        <td style="padding: 4px;">2</td>
+        <td style="padding: 4px;">1966</td>
+        <td style="padding: 4px;">Pet Sounds</td>
+        <td style="padding: 4px;">The Beach Boys</td>
+        <td style="padding: 4px;">Rock</td>
+        <td style="padding: 4px;">Pop Rock, Psychedelic Rock</td>
+      </tr>
+      <tr>
+        <td style="padding: 4px;">3</td>
+        <td style="padding: 4px;">1966</td>
+        <td style="padding: 4px;">Revolver</td>
+        <td style="padding: 4px;">The Beatles</td>
+        <td style="padding: 4px;">Rock</td>
+        <td style="padding: 4px;">Psychedelic Rock, Pop Rock</td>
+      </tr>
+      <tr>
+        <td style="padding: 4px;">4</td>
+        <td style="padding: 4px;">1965</td>
+        <td style="padding: 4px;">Highway 61 Revisited</td>
+        <td style="padding: 4px;">Bob Dylan</td>
+        <td style="padding: 4px;">Rock</td>
+        <td style="padding: 4px;">Folk Rock, Blues Rock</td>
+      </tr>
+      <tr>
+        <td style="padding: 4px;">5</td>
+        <td style="padding: 4px;">1965</td>
+        <td style="padding: 4px;">Rubber Soul</td>
+        <td style="padding: 4px;">The Beatles</td>
+        <td style="padding: 4px;">Rock, Pop</td>
+        <td style="padding: 4px;">Pop Rock</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 'rym_top_5000_all_time.csv':
