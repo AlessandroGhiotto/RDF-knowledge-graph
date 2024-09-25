@@ -36,7 +36,6 @@ Here we can have a quick look at the two starting CSV files.
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>Number</th>
       <th>Year</th>
       <th>Album</th>
@@ -47,7 +46,6 @@ Here we can have a quick look at the two starting CSV files.
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
       <td>1</td>
       <td>1967</td>
       <td>Sgt. Pepper's Lonely Hearts Club Band</td>
@@ -56,7 +54,6 @@ Here we can have a quick look at the two starting CSV files.
       <td>Rock &amp; Roll, Psychedelic Rock</td>
     </tr>
     <tr>
-      <th>1</th>
       <td>2</td>
       <td>1966</td>
       <td>Pet Sounds</td>
@@ -65,7 +62,6 @@ Here we can have a quick look at the two starting CSV files.
       <td>Pop Rock, Psychedelic Rock</td>
     </tr>
     <tr>
-      <th>2</th>
       <td>3</td>
       <td>1966</td>
       <td>Revolver</td>
@@ -74,7 +70,6 @@ Here we can have a quick look at the two starting CSV files.
       <td>Psychedelic Rock, Pop Rock</td>
     </tr>
     <tr>
-      <th>3</th>
       <td>4</td>
       <td>1965</td>
       <td>Highway 61 Revisited</td>
@@ -83,7 +78,6 @@ Here we can have a quick look at the two starting CSV files.
       <td>Folk Rock, Blues Rock</td>
     </tr>
     <tr>
-      <th>4</th>
       <td>5</td>
       <td>1965</td>
       <td>Rubber Soul</td>
@@ -101,7 +95,6 @@ Here we can have a quick look at the two starting CSV files.
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>Ranking</th>
       <th>Album</th>
       <th>Artist Name</th>
@@ -115,7 +108,6 @@ Here we can have a quick look at the two starting CSV files.
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
       <td>1.0</td>
       <td>OK Computer</td>
       <td>Radiohead</td>
@@ -127,7 +119,6 @@ Here we can have a quick look at the two starting CSV files.
       <td>1531</td>
     </tr>
     <tr>
-      <th>1</th>
       <td>2.0</td>
       <td>Wish You Were Here</td>
       <td>Pink Floyd</td>
@@ -139,7 +130,6 @@ Here we can have a quick look at the two starting CSV files.
       <td>983</td>
     </tr>
     <tr>
-      <th>2</th>
       <td>3.0</td>
       <td>In the Court of the Crimson King</td>
       <td>King Crimson</td>
@@ -151,7 +141,6 @@ Here we can have a quick look at the two starting CSV files.
       <td>870</td>
     </tr>
     <tr>
-      <th>3</th>
       <td>4.0</td>
       <td>Kid A</td>
       <td>Radiohead</td>
@@ -163,7 +152,6 @@ Here we can have a quick look at the two starting CSV files.
       <td>734</td>
     </tr>
     <tr>
-      <th>4</th>
       <td>5.0</td>
       <td>To Pimp a Butterfly</td>
       <td>Kendrick Lamar</td>
