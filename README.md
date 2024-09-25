@@ -91,77 +91,77 @@ Here we can have a quick look at the two starting CSV files.
 
 'rym_top_5000_all_time.csv':
 
-<div>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Ranking</th>
-      <th>Album</th>
-      <th>Artist Name</th>
-      <th>Release Date</th>
-      <th>Genres</th>
-      <th>Descriptors</th>
-      <th>Average Rating</th>
-      <th>Number of Ratings</th>
-      <th>Number of Reviews</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1.0</td>
-      <td>OK Computer</td>
-      <td>Radiohead</td>
-      <td>16 June 1997</td>
-      <td>Alternative Rock, Art Rock</td>
-      <td>melancholic, anxious, futuristic, alienation, ...</td>
-      <td>4.23</td>
-      <td>70,382</td>
-      <td>1531</td>
-    </tr>
-    <tr>
-      <td>2.0</td>
-      <td>Wish You Were Here</td>
-      <td>Pink Floyd</td>
-      <td>12 September 1975</td>
-      <td>Progressive Rock, Art Rock</td>
-      <td>melancholic, atmospheric, progressive, male vo...</td>
-      <td>4.29</td>
-      <td>48,662</td>
-      <td>983</td>
-    </tr>
-    <tr>
-      <td>3.0</td>
-      <td>In the Court of the Crimson King</td>
-      <td>King Crimson</td>
-      <td>10 October 1969</td>
-      <td>Progressive Rock, Art Rock</td>
-      <td>fantasy, epic, progressive, philosophical, com...</td>
-      <td>4.30</td>
-      <td>44,943</td>
-      <td>870</td>
-    </tr>
-    <tr>
-      <td>4.0</td>
-      <td>Kid A</td>
-      <td>Radiohead</td>
-      <td>3 October 2000</td>
-      <td>Art Rock, Experimental Rock, Electronic</td>
-      <td>cold, melancholic, futuristic, atmospheric, an...</td>
-      <td>4.21</td>
-      <td>58,590</td>
-      <td>734</td>
-    </tr>
-    <tr>
-      <td>5.0</td>
-      <td>To Pimp a Butterfly</td>
-      <td>Kendrick Lamar</td>
-      <td>15 March 2015</td>
-      <td>Conscious Hip Hop, West Coast Hip Hop, Jazz Rap</td>
-      <td>political, conscious, poetic, protest, concept...</td>
-      <td>4.27</td>
-      <td>44,206</td>
-      <td>379</td>
-    </tr>
-  </tbody>
-</table>
+<div style="max-width: 600px; margin: auto;">
+  <table border="1" class="dataframe" style="font-size: 12px; width: 100%; text-align: center; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th style="padding: 4px;">Ranking</th>
+        <th style="padding: 4px;">Album</th>
+        <th style="padding: 4px;">Artist Name</th>
+        <th style="padding: 4px;">Release Date</th>
+        <th style="padding: 4px;">Genres</th>
+        <th style="padding: 4px;">Descriptors</th>
+        <th style="padding: 4px;">Average Rating</th>
+        <th style="padding: 4px;">Number of Ratings</th>
+        <th style="padding: 4px;">Number of Reviews</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 4px;">1.0</td>
+        <td style="padding: 4px;">OK Computer</td>
+        <td style="padding: 4px;">Radiohead</td>
+        <td style="padding: 4px;">16 June 1997</td>
+        <td style="padding: 4px;">Alternative Rock, Art Rock</td>
+        <td style="padding: 4px;">melancholic, anxious, futuristic, alienation, ...</td>
+        <td style="padding: 4px;">4.23</td>
+        <td style="padding: 4px;">70,382</td>
+        <td style="padding: 4px;">1531</td>
+      </tr>
+      <tr>
+        <td style="padding: 4px;">2.0</td>
+        <td style="padding: 4px;">Wish You Were Here</td>
+        <td style="padding: 4px;">Pink Floyd</td>
+        <td style="padding: 4px;">12 September 1975</td>
+        <td style="padding: 4px;">Progressive Rock, Art Rock</td>
+        <td style="padding: 4px;">melancholic, atmospheric, progressive, male vo...</td>
+        <td style="padding: 4px;">4.29</td>
+        <td style="padding: 4px;">48,662</td>
+        <td style="padding: 4px;">983</td>
+      </tr>
+      <tr>
+        <td style="padding: 4px;">3.0</td>
+        <td style="padding: 4px;">In the Court of the Crimson King</td>
+        <td style="padding: 4px;">King Crimson</td>
+        <td style="padding: 4px;">10 October 1969</td>
+        <td style="padding: 4px;">Progressive Rock, Art Rock</td>
+        <td style="padding: 4px;">fantasy, epic, progressive, philosophical, com...</td>
+        <td style="padding: 4px;">4.30</td>
+        <td style="padding: 4px;">44,943</td>
+        <td style="padding: 4px;">870</td>
+      </tr>
+      <tr>
+        <td style="padding: 4px;">4.0</td>
+        <td style="padding: 4px;">Kid A</td>
+        <td style="padding: 4px;">Radiohead</td>
+        <td style="padding: 4px;">3 October 2000</td>
+        <td style="padding: 4px;">Art Rock, Experimental Rock, Electronic</td>
+        <td style="padding: 4px;">cold, melancholic, futuristic, atmospheric, an...</td>
+        <td style="padding: 4px;">4.21</td>
+        <td style="padding: 4px;">58,590</td>
+        <td style="padding: 4px;">734</td>
+      </tr>
+      <tr>
+        <td style="padding: 4px;">5.0</td>
+        <td style="padding: 4px;">To Pimp a Butterfly</td>
+        <td style="padding: 4px;">Kendrick Lamar</td>
+        <td style="padding: 4px;">15 March 2015</td>
+        <td style="padding: 4px;">Conscious Hip Hop, West Coast Hip Hop, Jazz Rap</td>
+        <td style="padding: 4px;">political, conscious, poetic, protest, concept...</td>
+        <td style="padding: 4px;">4.27</td>
+        <td style="padding: 4px;">44,206</td>
+        <td style="padding: 4px;">379</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
