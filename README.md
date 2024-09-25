@@ -28,7 +28,7 @@ The main task is to create a RDF Knowledge Graph that follows the next points:
 
 ## CSV data
 
-Here we can have a quick look at the two starting CSV files.
+Here we can have a quick look at the two starting CSV files. The albums, artists, genre, subgenre, ratings and reviews of these albums are our main topic in the knowledge graph.
 
 'album_list.csv':
 
