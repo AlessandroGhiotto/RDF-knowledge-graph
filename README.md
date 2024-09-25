@@ -15,25 +15,24 @@ The main task is to create a RDF Knowledge Graph that follows the next points:
 
 ![KG](https://github.com/AlessandroGhiotto/RDF-music-knowledge-graph/blob/main/data/graph-image-example.png)
 
+## Keywords
+
+- Knowledge Representation and Reasoning (KRR)
+- Knowlegde Graph
+- RDFLib
+- RDF, RDFS
+- OWL, OWLRL
+- SPARQL
+- DBpedia
+- WikipediaAPI
+
 ## CSV data
+
+Here we can have a quick look at the two starting CSV files.
 
 'album_list.csv':
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -99,20 +98,6 @@ The main task is to create a RDF Knowledge Graph that follows the next points:
 'rym_top_5000_all_time.csv':
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -192,14 +177,3 @@ The main task is to create a RDF Knowledge Graph that follows the next points:
   </tbody>
 </table>
 </div>
-
-### Keywords
-
-- Knowledge Representation and Reasoning (KRR)
-- Knowlegde Graph
-- RDFLib
-- RDF, RDFS
-- OWL, OWLRL
-- SPARQL
-- DBpedia
-- WikipediaAPI
